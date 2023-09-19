@@ -27,6 +27,6 @@ To run any of the projects, simply execute the corresponding Python file. Each p
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to me at [Your Email Address](mailto:avdhootfulsundar@gmail.com).
+If you have any questions, suggestions, or feedback, feel free to reach out to me at [Email Address](mailto:avdhootfulsundar@gmail.com).
 
 Happy Machine Learning!
